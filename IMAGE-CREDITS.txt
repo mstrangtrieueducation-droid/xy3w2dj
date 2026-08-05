@@ -1,0 +1,12 @@
+Vocabulary and lesson image credits
+
+Pictograms: Sergio Palao / ARASAAC, Government of Aragon.
+License: CC BY-NC-SA 3.0.
+Source: https://arasaac.org/
+
+Additional original educational illustrations were created for this course.
+All lesson images are normalized to 1600 x 1600 without cropping.
+
+Zummara photograph (Unit 12): Joan / Wikimedia Commons.
+License: CC BY-SA 3.0. Modified only by resizing and adding neutral padding.
+Source: https://commons.wikimedia.org/wiki/File:Zummara.jpg
